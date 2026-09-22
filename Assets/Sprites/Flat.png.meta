@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ce1c15d1999e0ce4c9c430a82df57ac9
+guid: f12710be39418424588c8d27aeabdf3a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7122154235637099237
-    second: NormalPerson_0
+      213: 7162533695954555121
+    second: Flat_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 70
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NormalPerson_0
+      name: Flat_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ea61b2ea89f6d260800000000000000
-      internalID: 7122154235637099237
+      spriteID: 1f0132f927e666360800000000000000
+      internalID: 7162533695954555121
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      NormalPerson_0: 7122154235637099237
+      Flat_0: 7162533695954555121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

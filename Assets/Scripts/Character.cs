@@ -10,18 +10,44 @@ public class Character : MonoBehaviour
     [SerializeField] private float lifeTime = 1.5f;   // 出現してから何もされず消えるまでの時間
     [SerializeField] private float peakOffset = 0.6f;  // 出現からベストタイミングまでのオフセット
 
+    [Header("歩いて近づいてくる演出")]
+    [SerializeField] private Vector3 approachOffset = new Vector3(0f, -3.5f, 0f); // 出現位置からの移動量(奥→手前)
+    [SerializeField] private float startScale = 0.45f; // 遠くにいる時の縮小率
+    [SerializeField] private float endScale = 1.4f;    // 手前まで来た時の拡大率
+
     public PersonType Type { get; private set; }
     public bool IsResolved { get; private set; }
     public float PeakTime { get; private set; }
 
     private Coroutine lifeRoutine;
+    private Coroutine walkRoutine;
 
     public void Setup(PersonType type)
     {
         Type = type;
         IsResolved = false;
         PeakTime = Time.time + peakOffset;
+
+        transform.localScale = Vector3.one * startScale;
         lifeRoutine = StartCoroutine(LifeCycle());
+        walkRoutine = StartCoroutine(WalkTowardPlayer());
+    }
+
+    // 出現位置(奥)から手前へ、lifeTimeかけて歩いて近づいてくる(サイズも拡大)
+    private IEnumerator WalkTowardPlayer()
+    {
+        Vector3 start = transform.position;
+        Vector3 end = start + approachOffset;
+        float elapsed = 0f;
+
+        while (elapsed < lifeTime)
+        {
+            elapsed += Time.deltaTime;
+            float t = Mathf.Clamp01(elapsed / lifeTime);
+            transform.position = Vector3.Lerp(start, end, t);
+            transform.localScale = Vector3.one * Mathf.Lerp(startScale, endScale, t);
+            yield return null;
+        }
     }
 
     private IEnumerator LifeCycle()
@@ -53,6 +79,10 @@ public class Character : MonoBehaviour
         if (lifeRoutine != null)
         {
             StopCoroutine(lifeRoutine);
+        }
+        if (walkRoutine != null)
+        {
+            StopCoroutine(walkRoutine);
         }
 
         JudgeResult result = JudgeSystem.Instance.JudgePunch(this);
