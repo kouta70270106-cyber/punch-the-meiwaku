@@ -9,8 +9,8 @@ public class SpawnManager : MonoBehaviour
     private const int NormalCount = 10;
     private const float SpawnInterval = 1.2f;
 
-    [SerializeField] private Character badPersonPrefab;
-    [SerializeField] private Character normalPersonPrefab;
+    [SerializeField] private Character[] badPersonPrefabs;
+    [SerializeField] private Character[] normalPersonPrefabs;
     [SerializeField] private Transform[] spawnPoints;
 
     private Coroutine spawnRoutine;
@@ -79,7 +79,8 @@ public class SpawnManager : MonoBehaviour
 
     private void SpawnOne(PersonType type)
     {
-        Character prefab = type == PersonType.Bad ? badPersonPrefab : normalPersonPrefab;
+        Character[] pool = type == PersonType.Bad ? badPersonPrefabs : normalPersonPrefabs;
+        Character prefab = pool[Random.Range(0, pool.Length)];
         Transform point = spawnPoints[Random.Range(0, spawnPoints.Length)];
 
         Character instance = Instantiate(prefab, point.position, point.rotation);

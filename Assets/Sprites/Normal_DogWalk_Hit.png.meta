@@ -1,0 +1,7124 @@
+fileFormatVersion: 2
+guid: afeedb5483370744a9ef7bd95cb2e9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3986026641298246214
+    second: Normal_DogWalk_Hit_0
+  - first:
+      213: 2021620285146627905
+    second: Normal_DogWalk_Hit_1
+  - first:
+      213: -1979294420985150530
+    second: Normal_DogWalk_Hit_2
+  - first:
+      213: -5032237988899558204
+    second: Normal_DogWalk_Hit_3
+  - first:
+      213: 431393129511555166
+    second: Normal_DogWalk_Hit_4
+  - first:
+      213: -2948149084552967958
+    second: Normal_DogWalk_Hit_5
+  - first:
+      213: 2657357108409387834
+    second: Normal_DogWalk_Hit_6
+  - first:
+      213: -3102598648080162455
+    second: Normal_DogWalk_Hit_7
+  - first:
+      213: -8792247265356590785
+    second: Normal_DogWalk_Hit_8
+  - first:
+      213: 3442406345217048269
+    second: Normal_DogWalk_Hit_9
+  - first:
+      213: -3885338514874709385
+    second: Normal_DogWalk_Hit_10
+  - first:
+      213: 1167115266654029462
+    second: Normal_DogWalk_Hit_11
+  - first:
+      213: -4827755742427271628
+    second: Normal_DogWalk_Hit_12
+  - first:
+      213: -4825825236448440123
+    second: Normal_DogWalk_Hit_13
+  - first:
+      213: 7218633106399375164
+    second: Normal_DogWalk_Hit_14
+  - first:
+      213: 4945349787663530250
+    second: Normal_DogWalk_Hit_15
+  - first:
+      213: 4140745145434351630
+    second: Normal_DogWalk_Hit_16
+  - first:
+      213: 7513241956195567
+    second: Normal_DogWalk_Hit_17
+  - first:
+      213: -2461182420240403263
+    second: Normal_DogWalk_Hit_18
+  - first:
+      213: 2429753643356540391
+    second: Normal_DogWalk_Hit_19
+  - first:
+      213: 3586591731384644603
+    second: Normal_DogWalk_Hit_20
+  - first:
+      213: -3265278152051825942
+    second: Normal_DogWalk_Hit_21
+  - first:
+      213: -8577536325193146661
+    second: Normal_DogWalk_Hit_22
+  - first:
+      213: 7376486958857242033
+    second: Normal_DogWalk_Hit_23
+  - first:
+      213: 8453259672268550696
+    second: Normal_DogWalk_Hit_24
+  - first:
+      213: -6186234376622848631
+    second: Normal_DogWalk_Hit_25
+  - first:
+      213: -3970899691929863627
+    second: Normal_DogWalk_Hit_26
+  - first:
+      213: 8218679763153363102
+    second: Normal_DogWalk_Hit_27
+  - first:
+      213: 7629451211566431495
+    second: Normal_DogWalk_Hit_28
+  - first:
+      213: -3787548149320301305
+    second: Normal_DogWalk_Hit_29
+  - first:
+      213: 872862898467110098
+    second: Normal_DogWalk_Hit_30
+  - first:
+      213: 1602674469855882055
+    second: Normal_DogWalk_Hit_31
+  - first:
+      213: 8154369448741833765
+    second: Normal_DogWalk_Hit_32
+  - first:
+      213: -6047851846746600391
+    second: Normal_DogWalk_Hit_33
+  - first:
+      213: -8499569747149410293
+    second: Normal_DogWalk_Hit_34
+  - first:
+      213: -6686617959840225488
+    second: Normal_DogWalk_Hit_35
+  - first:
+      213: -5858687741350265721
+    second: Normal_DogWalk_Hit_36
+  - first:
+      213: 8154112449348694548
+    second: Normal_DogWalk_Hit_37
+  - first:
+      213: -3273105573260474836
+    second: Normal_DogWalk_Hit_38
+  - first:
+      213: -437921222802641759
+    second: Normal_DogWalk_Hit_39
+  - first:
+      213: -2352914898542230304
+    second: Normal_DogWalk_Hit_40
+  - first:
+      213: 3524820514881267240
+    second: Normal_DogWalk_Hit_41
+  - first:
+      213: 8729866619477427006
+    second: Normal_DogWalk_Hit_42
+  - first:
+      213: -5551238317032043443
+    second: Normal_DogWalk_Hit_43
+  - first:
+      213: -7559631216890026285
+    second: Normal_DogWalk_Hit_44
+  - first:
+      213: -483954233146712762
+    second: Normal_DogWalk_Hit_45
+  - first:
+      213: -2025253860916248376
+    second: Normal_DogWalk_Hit_46
+  - first:
+      213: 7000602114170792807
+    second: Normal_DogWalk_Hit_47
+  - first:
+      213: -2412891962652652145
+    second: Normal_DogWalk_Hit_48
+  - first:
+      213: -1342181966228205657
+    second: Normal_DogWalk_Hit_49
+  - first:
+      213: -2756377470077401642
+    second: Normal_DogWalk_Hit_50
+  - first:
+      213: 1534143982530060861
+    second: Normal_DogWalk_Hit_51
+  - first:
+      213: -2831604277036535662
+    second: Normal_DogWalk_Hit_52
+  - first:
+      213: 4030023672754847873
+    second: Normal_DogWalk_Hit_53
+  - first:
+      213: 410427674802888779
+    second: Normal_DogWalk_Hit_54
+  - first:
+      213: 5600502449774016351
+    second: Normal_DogWalk_Hit_55
+  - first:
+      213: -9208247394683521927
+    second: Normal_DogWalk_Hit_56
+  - first:
+      213: -5097905633629379235
+    second: Normal_DogWalk_Hit_57
+  - first:
+      213: -7041982177374055806
+    second: Normal_DogWalk_Hit_58
+  - first:
+      213: 7370252424633271309
+    second: Normal_DogWalk_Hit_59
+  - first:
+      213: -3266408346061421678
+    second: Normal_DogWalk_Hit_60
+  - first:
+      213: -273636084241868422
+    second: Normal_DogWalk_Hit_61
+  - first:
+      213: -4521339193527606663
+    second: Normal_DogWalk_Hit_62
+  - first:
+      213: 8533011523131193642
+    second: Normal_DogWalk_Hit_63
+  - first:
+      213: -2161349927810391777
+    second: Normal_DogWalk_Hit_64
+  - first:
+      213: 7331497388655553503
+    second: Normal_DogWalk_Hit_65
+  - first:
+      213: 5403252584051101624
+    second: Normal_DogWalk_Hit_66
+  - first:
+      213: 803686232374018108
+    second: Normal_DogWalk_Hit_67
+  - first:
+      213: -3402737419101483154
+    second: Normal_DogWalk_Hit_68
+  - first:
+      213: -2342924432422735662
+    second: Normal_DogWalk_Hit_69
+  - first:
+      213: -1736898631377271076
+    second: Normal_DogWalk_Hit_70
+  - first:
+      213: 3183169953981332813
+    second: Normal_DogWalk_Hit_71
+  - first:
+      213: -2707007419849501644
+    second: Normal_DogWalk_Hit_72
+  - first:
+      213: 5569421616807460628
+    second: Normal_DogWalk_Hit_73
+  - first:
+      213: -7783726640847152833
+    second: Normal_DogWalk_Hit_74
+  - first:
+      213: -1177667079812634200
+    second: Normal_DogWalk_Hit_75
+  - first:
+      213: 9175184235147319373
+    second: Normal_DogWalk_Hit_76
+  - first:
+      213: 6867358498218438168
+    second: Normal_DogWalk_Hit_77
+  - first:
+      213: 104997908436079503
+    second: Normal_DogWalk_Hit_78
+  - first:
+      213: -4920836572972351478
+    second: Normal_DogWalk_Hit_79
+  - first:
+      213: 6386830957126079378
+    second: Normal_DogWalk_Hit_80
+  - first:
+      213: -6825014499511445962
+    second: Normal_DogWalk_Hit_81
+  - first:
+      213: 6511731938128464027
+    second: Normal_DogWalk_Hit_82
+  - first:
+      213: -7646357382756466487
+    second: Normal_DogWalk_Hit_83
+  - first:
+      213: 4482250353305615092
+    second: Normal_DogWalk_Hit_84
+  - first:
+      213: 1107749137486522327
+    second: Normal_DogWalk_Hit_85
+  - first:
+      213: 535320090432523321
+    second: Normal_DogWalk_Hit_86
+  - first:
+      213: -2216655492222369209
+    second: Normal_DogWalk_Hit_87
+  - first:
+      213: 8722317512122047139
+    second: Normal_DogWalk_Hit_88
+  - first:
+      213: 3009184127121632664
+    second: Normal_DogWalk_Hit_89
+  - first:
+      213: -141541013685649249
+    second: Normal_DogWalk_Hit_90
+  - first:
+      213: -4048310200342712174
+    second: Normal_DogWalk_Hit_91
+  - first:
+      213: -1755178545820378380
+    second: Normal_DogWalk_Hit_92
+  - first:
+      213: 677187115539029552
+    second: Normal_DogWalk_Hit_93
+  - first:
+      213: 3963161581534536872
+    second: Normal_DogWalk_Hit_94
+  - first:
+      213: -4360905711743082206
+    second: Normal_DogWalk_Hit_95
+  - first:
+      213: 347483137711201227
+    second: Normal_DogWalk_Hit_96
+  - first:
+      213: 2395372438039043932
+    second: Normal_DogWalk_Hit_97
+  - first:
+      213: 1962129580925842050
+    second: Normal_DogWalk_Hit_98
+  - first:
+      213: 1849748234357662676
+    second: Normal_DogWalk_Hit_99
+  - first:
+      213: 8477847751826302933
+    second: Normal_DogWalk_Hit_100
+  - first:
+      213: -1482937915174168250
+    second: Normal_DogWalk_Hit_101
+  - first:
+      213: 3454097667372213075
+    second: Normal_DogWalk_Hit_102
+  - first:
+      213: -1244644321112555629
+    second: Normal_DogWalk_Hit_103
+  - first:
+      213: 6523342963352198418
+    second: Normal_DogWalk_Hit_104
+  - first:
+      213: 1604851767142412755
+    second: Normal_DogWalk_Hit_105
+  - first:
+      213: -2994763740741610822
+    second: Normal_DogWalk_Hit_106
+  - first:
+      213: 8867339973541263503
+    second: Normal_DogWalk_Hit_107
+  - first:
+      213: 8007478148874123976
+    second: Normal_DogWalk_Hit_108
+  - first:
+      213: 4712693712288675749
+    second: Normal_DogWalk_Hit_109
+  - first:
+      213: -6372524828482975390
+    second: Normal_DogWalk_Hit_110
+  - first:
+      213: 611521923381220380
+    second: Normal_DogWalk_Hit_111
+  - first:
+      213: -1357579126666759454
+    second: Normal_DogWalk_Hit_112
+  - first:
+      213: 4262605039981410988
+    second: Normal_DogWalk_Hit_113
+  - first:
+      213: 1739493309075324739
+    second: Normal_DogWalk_Hit_114
+  - first:
+      213: 8934538820605491849
+    second: Normal_DogWalk_Hit_115
+  - first:
+      213: 1557025872522816493
+    second: Normal_DogWalk_Hit_116
+  - first:
+      213: 808337937105056876
+    second: Normal_DogWalk_Hit_117
+  - first:
+      213: -3718948404510919564
+    second: Normal_DogWalk_Hit_118
+  - first:
+      213: 6633899613717077594
+    second: Normal_DogWalk_Hit_119
+  - first:
+      213: 204016485602211958
+    second: Normal_DogWalk_Hit_120
+  - first:
+      213: 7365287602158562636
+    second: Normal_DogWalk_Hit_121
+  - first:
+      213: -7173119965913167224
+    second: Normal_DogWalk_Hit_122
+  - first:
+      213: 3910531534431885313
+    second: Normal_DogWalk_Hit_123
+  - first:
+      213: 8931966451766995909
+    second: Normal_DogWalk_Hit_124
+  - first:
+      213: 1076770197484820801
+    second: Normal_DogWalk_Hit_125
+  - first:
+      213: 7793363273470323775
+    second: Normal_DogWalk_Hit_126
+  - first:
+      213: -6164880341932136013
+    second: Normal_DogWalk_Hit_127
+  - first:
+      213: 7430656753163149017
+    second: Normal_DogWalk_Hit_128
+  - first:
+      213: 8978810364384863935
+    second: Normal_DogWalk_Hit_129
+  - first:
+      213: -6936845009543296370
+    second: Normal_DogWalk_Hit_130
+  - first:
+      213: -4749206612016518060
+    second: Normal_DogWalk_Hit_131
+  - first:
+      213: 1279649717334961907
+    second: Normal_DogWalk_Hit_132
+  - first:
+      213: -9072335127734706812
+    second: Normal_DogWalk_Hit_133
+  - first:
+      213: 3674000140161039068
+    second: Normal_DogWalk_Hit_134
+  - first:
+      213: -3561067603684194924
+    second: Normal_DogWalk_Hit_135
+  - first:
+      213: -2095251033014777839
+    second: Normal_DogWalk_Hit_136
+  - first:
+      213: -7612452071268578979
+    second: Normal_DogWalk_Hit_137
+  - first:
+      213: -1092697027518021322
+    second: Normal_DogWalk_Hit_138
+  - first:
+      213: -2081285452445229889
+    second: Normal_DogWalk_Hit_139
+  - first:
+      213: 2088340865347768442
+    second: Normal_DogWalk_Hit_140
+  - first:
+      213: 5375996903842418370
+    second: Normal_DogWalk_Hit_141
+  - first:
+      213: -6346984082887106008
+    second: Normal_DogWalk_Hit_142
+  - first:
+      213: -7158129424750121058
+    second: Normal_DogWalk_Hit_143
+  - first:
+      213: 1551821960070318906
+    second: Normal_DogWalk_Hit_144
+  - first:
+      213: 7041317217734491443
+    second: Normal_DogWalk_Hit_145
+  - first:
+      213: -6515985209451174261
+    second: Normal_DogWalk_Hit_146
+  - first:
+      213: -3618786048354891710
+    second: Normal_DogWalk_Hit_147
+  - first:
+      213: -4478628237238322367
+    second: Normal_DogWalk_Hit_148
+  - first:
+      213: -6949955318569608823
+    second: Normal_DogWalk_Hit_149
+  - first:
+      213: 4280677986389858393
+    second: Normal_DogWalk_Hit_150
+  - first:
+      213: -3403677671711074587
+    second: Normal_DogWalk_Hit_151
+  - first:
+      213: 1513151012938304055
+    second: Normal_DogWalk_Hit_152
+  - first:
+      213: 8425491062084751444
+    second: Normal_DogWalk_Hit_153
+  - first:
+      213: 8415230069304113820
+    second: Normal_DogWalk_Hit_154
+  - first:
+      213: 5253401371068285937
+    second: Normal_DogWalk_Hit_155
+  - first:
+      213: 491012706514675797
+    second: Normal_DogWalk_Hit_156
+  - first:
+      213: 3028646088986253612
+    second: Normal_DogWalk_Hit_157
+  - first:
+      213: -4797268915915921397
+    second: Normal_DogWalk_Hit_158
+  - first:
+      213: 5435510663609757309
+    second: Normal_DogWalk_Hit_159
+  - first:
+      213: 3622750986923606464
+    second: Normal_DogWalk_Hit_160
+  - first:
+      213: -5099111777611209673
+    second: Normal_DogWalk_Hit_161
+  - first:
+      213: -6978259077321143988
+    second: Normal_DogWalk_Hit_162
+  - first:
+      213: 7430764166331642306
+    second: Normal_DogWalk_Hit_163
+  - first:
+      213: -6547393789248793910
+    second: Normal_DogWalk_Hit_164
+  - first:
+      213: -5824897452525349102
+    second: Normal_DogWalk_Hit_165
+  - first:
+      213: 6388388163951540322
+    second: Normal_DogWalk_Hit_166
+  - first:
+      213: -108888643253481063
+    second: Normal_DogWalk_Hit_167
+  - first:
+      213: 3921414780251483015
+    second: Normal_DogWalk_Hit_168
+  - first:
+      213: 764900668723840586
+    second: Normal_DogWalk_Hit_169
+  - first:
+      213: 6494659313496780799
+    second: Normal_DogWalk_Hit_170
+  - first:
+      213: 2911007430524399407
+    second: Normal_DogWalk_Hit_171
+  - first:
+      213: -8521460075236948639
+    second: Normal_DogWalk_Hit_172
+  - first:
+      213: 8199960055859383669
+    second: Normal_DogWalk_Hit_173
+  - first:
+      213: -6216844038765084766
+    second: Normal_DogWalk_Hit_174
+  - first:
+      213: -670098517767536942
+    second: Normal_DogWalk_Hit_175
+  - first:
+      213: 166134025242868804
+    second: Normal_DogWalk_Hit_176
+  - first:
+      213: -5815697061595936699
+    second: Normal_DogWalk_Hit_177
+  - first:
+      213: 3042947538508178986
+    second: Normal_DogWalk_Hit_178
+  - first:
+      213: -5501007083188471851
+    second: Normal_DogWalk_Hit_179
+  - first:
+      213: -1088339045107087004
+    second: Normal_DogWalk_Hit_180
+  - first:
+      213: -8393501639023110854
+    second: Normal_DogWalk_Hit_181
+  - first:
+      213: -5355528901336981193
+    second: Normal_DogWalk_Hit_182
+  - first:
+      213: 3228190383224084962
+    second: Normal_DogWalk_Hit_183
+  - first:
+      213: 3692661261312271926
+    second: Normal_DogWalk_Hit_184
+  - first:
+      213: 4876386287391059844
+    second: Normal_DogWalk_Hit_185
+  - first:
+      213: -2301747172894751159
+    second: Normal_DogWalk_Hit_186
+  - first:
+      213: -8679962292375470537
+    second: Normal_DogWalk_Hit_187
+  - first:
+      213: 1358211945070171848
+    second: Normal_DogWalk_Hit_188
+  - first:
+      213: -5176932683140200800
+    second: Normal_DogWalk_Hit_189
+  - first:
+      213: 383795649460859895
+    second: Normal_DogWalk_Hit_190
+  - first:
+      213: 4133276206092714595
+    second: Normal_DogWalk_Hit_191
+  - first:
+      213: 396818400539196672
+    second: Normal_DogWalk_Hit_192
+  - first:
+      213: 8441807904853528614
+    second: Normal_DogWalk_Hit_193
+  - first:
+      213: 7433887944373003975
+    second: Normal_DogWalk_Hit_194
+  - first:
+      213: -2334175568913786443
+    second: Normal_DogWalk_Hit_195
+  - first:
+      213: -5795465994183143769
+    second: Normal_DogWalk_Hit_196
+  - first:
+      213: 8377112926278525933
+    second: Normal_DogWalk_Hit_197
+  - first:
+      213: 712710166845326064
+    second: Normal_DogWalk_Hit_198
+  - first:
+      213: 6984644506621487403
+    second: Normal_DogWalk_Hit_199
+  - first:
+      213: 2303233245364829424
+    second: Normal_DogWalk_Hit_200
+  - first:
+      213: -7744243485671532912
+    second: Normal_DogWalk_Hit_201
+  - first:
+      213: -7642987890063534028
+    second: Normal_DogWalk_Hit_202
+  - first:
+      213: -5922705086959399880
+    second: Normal_DogWalk_Hit_203
+  - first:
+      213: -6368424723837756255
+    second: Normal_DogWalk_Hit_204
+  - first:
+      213: 7719506938891363033
+    second: Normal_DogWalk_Hit_205
+  - first:
+      213: 6483243614242731011
+    second: Normal_DogWalk_Hit_206
+  - first:
+      213: -4745367759392973953
+    second: Normal_DogWalk_Hit_207
+  - first:
+      213: 5295184260844750448
+    second: Normal_DogWalk_Hit_208
+  - first:
+      213: 3536912782878999467
+    second: Normal_DogWalk_Hit_209
+  - first:
+      213: 4899676083816928187
+    second: Normal_DogWalk_Hit_210
+  - first:
+      213: 5782378457208459187
+    second: Normal_DogWalk_Hit_211
+  - first:
+      213: -5913173331371425350
+    second: Normal_DogWalk_Hit_212
+  - first:
+      213: 2835933578952123650
+    second: Normal_DogWalk_Hit_213
+  - first:
+      213: -7133616413508513210
+    second: Normal_DogWalk_Hit_214
+  - first:
+      213: 5877186172316820699
+    second: Normal_DogWalk_Hit_215
+  - first:
+      213: 3523164921695992147
+    second: Normal_DogWalk_Hit_216
+  - first:
+      213: 7880034379920454777
+    second: Normal_DogWalk_Hit_217
+  - first:
+      213: -3140203503409526566
+    second: Normal_DogWalk_Hit_218
+  - first:
+      213: -3827583695395976066
+    second: Normal_DogWalk_Hit_219
+  - first:
+      213: -3306206914543372622
+    second: Normal_DogWalk_Hit_220
+  - first:
+      213: -2341788983012054837
+    second: Normal_DogWalk_Hit_221
+  - first:
+      213: -18691403009963034
+    second: Normal_DogWalk_Hit_222
+  - first:
+      213: 6733325361228115500
+    second: Normal_DogWalk_Hit_223
+  - first:
+      213: -9063424480304698874
+    second: Normal_DogWalk_Hit_224
+  - first:
+      213: -2091955731735777088
+    second: Normal_DogWalk_Hit_225
+  - first:
+      213: 2155321253209643346
+    second: Normal_DogWalk_Hit_226
+  - first:
+      213: 1777183692683885411
+    second: Normal_DogWalk_Hit_227
+  - first:
+      213: 1811718407679364517
+    second: Normal_DogWalk_Hit_228
+  - first:
+      213: -6891273971021805231
+    second: Normal_DogWalk_Hit_229
+  - first:
+      213: 5976953588825700832
+    second: Normal_DogWalk_Hit_230
+  - first:
+      213: 2495979908437330266
+    second: Normal_DogWalk_Hit_231
+  - first:
+      213: 8068069222527930166
+    second: Normal_DogWalk_Hit_232
+  - first:
+      213: -4180236237173726602
+    second: Normal_DogWalk_Hit_233
+  - first:
+      213: 8640707928735076212
+    second: Normal_DogWalk_Hit_234
+  - first:
+      213: 2964534293597841073
+    second: Normal_DogWalk_Hit_235
+  - first:
+      213: 3962480532105463397
+    second: Normal_DogWalk_Hit_236
+  - first:
+      213: -3415450076777332800
+    second: Normal_DogWalk_Hit_237
+  - first:
+      213: -770994957123422134
+    second: Normal_DogWalk_Hit_238
+  - first:
+      213: -8428787575094841431
+    second: Normal_DogWalk_Hit_239
+  - first:
+      213: 4813515748172320862
+    second: Normal_DogWalk_Hit_240
+  - first:
+      213: -4922145525718816607
+    second: Normal_DogWalk_Hit_241
+  - first:
+      213: 6777543570277073213
+    second: Normal_DogWalk_Hit_242
+  - first:
+      213: 1743643289246348690
+    second: Normal_DogWalk_Hit_243
+  - first:
+      213: 5822029970778750063
+    second: Normal_DogWalk_Hit_244
+  - first:
+      213: -1072911716032116657
+    second: Normal_DogWalk_Hit_245
+  - first:
+      213: -4327961618624360494
+    second: Normal_DogWalk_Hit_246
+  - first:
+      213: 8590373043010201043
+    second: Normal_DogWalk_Hit_247
+  - first:
+      213: 8222669505565247052
+    second: Normal_DogWalk_Hit_248
+  - first:
+      213: 8223325394438359355
+    second: Normal_DogWalk_Hit_249
+  - first:
+      213: -5934498259786999722
+    second: Normal_DogWalk_Hit_250
+  - first:
+      213: -3451885697957834633
+    second: Normal_DogWalk_Hit_251
+  - first:
+      213: -4163535221077167695
+    second: Normal_DogWalk_Hit_252
+  - first:
+      213: -1118317132025772844
+    second: Normal_DogWalk_Hit_253
+  - first:
+      213: -4292777112288294359
+    second: Normal_DogWalk_Hit_254
+  - first:
+      213: -886701358333036252
+    second: Normal_DogWalk_Hit_255
+  - first:
+      213: 8539918546965658119
+    second: Normal_DogWalk_Hit_256
+  - first:
+      213: -5372620343780972383
+    second: Normal_DogWalk_Hit_257
+  - first:
+      213: 7906969989965054164
+    second: Normal_DogWalk_Hit_258
+  - first:
+      213: -6038699002492861726
+    second: Normal_DogWalk_Hit_259
+  - first:
+      213: 994834619134128313
+    second: Normal_DogWalk_Hit_260
+  - first:
+      213: 1390316764414108194
+    second: Normal_DogWalk_Hit_261
+  - first:
+      213: 3446045467871540357
+    second: Normal_DogWalk_Hit_262
+  - first:
+      213: 5492130635058465935
+    second: Normal_DogWalk_Hit_263
+  - first:
+      213: 5590321742382146399
+    second: Normal_DogWalk_Hit_264
+  - first:
+      213: -6589782842772697077
+    second: Normal_DogWalk_Hit_265
+  - first:
+      213: -2982647856624220587
+    second: Normal_DogWalk_Hit_266
+  - first:
+      213: -389925065279919814
+    second: Normal_DogWalk_Hit_267
+  - first:
+      213: -3137518598752419693
+    second: Normal_DogWalk_Hit_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 549.0909
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1120
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5bc2c73e9cea8c0800000000000000
+      internalID: -3986026641298246214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1159
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f73e630fc3e0c10800000000000000
+      internalID: 2021620285146627905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1169
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3844bf5322884e0800000000000000
+      internalID: -1979294420985150530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc6a660636e92ab0800000000000000
+      internalID: -5032237988899558204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1108
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50941304cd9cf500800000000000000
+      internalID: 431393129511555166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1159
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c35e07021617d0800000000000000
+      internalID: -2948149084552967958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1043
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc918f534d0e420800000000000000
+      internalID: 2657357108409387834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1141
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9612394c7fa51f4d0800000000000000
+      internalID: -3102598648080162455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1134
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31550b02b9abf580800000000000000
+      internalID: -8792247265356590785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1047
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce76331552e5cf20800000000000000
+      internalID: 3442406345217048269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1144
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77acfb4c431841ac0800000000000000
+      internalID: -3885338514874709385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1175
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69649d0c62d623010800000000000000
+      internalID: 1167115266654029462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1169
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e25461bbd500db0800000000000000
+      internalID: -4827755742427271628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1119
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c010690489370db0800000000000000
+      internalID: -4825825236448440123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1157
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f2fc6709cbd2460800000000000000
+      internalID: 7218633106399375164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1167
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09fcb72e6961a440800000000000000
+      internalID: 4945349787663530250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1135
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a90b65c1e67930800000000000000
+      internalID: 4140745145434351630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec19e5f041ba1000800000000000000
+      internalID: 7513241956195567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1142
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47222f0af18ddd0800000000000000
+      internalID: -2461182420240403263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1147
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4af3b01838b120800000000000000
+      internalID: 2429753643356540391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f8875d2226c130800000000000000
+      internalID: 3586591731384644603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1144
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26b1622d66fa2d0800000000000000
+      internalID: -3265278152051825942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1181
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5ad0782876f880800000000000000
+      internalID: -8577536325193146661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1159
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5ccf88ecb8e5660800000000000000
+      internalID: 7376486958857242033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1169
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822b3b772e2005570800000000000000
+      internalID: 8453259672268550696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1122
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985c51c4c94162aa0800000000000000
+      internalID: -6186234376622848631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53affc7d4c784e8c0800000000000000
+      internalID: -3970899691929863627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1120
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a27d33bd9e0270800000000000000
+      internalID: 8218679763153363102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3790547141e960800000000000000
+      internalID: 7629451211566431495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054316860def6bc0800000000000000
+      internalID: -3787548149320301305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcffb87e280d1c00800000000000000
+      internalID: 872862898467110098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be85260f7dd3610800000000000000
+      internalID: 1602674469855882055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1120
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c0e875fc32a2170800000000000000
+      internalID: 8154369448741833765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1167
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c8a7cc9c6b11ca0800000000000000
+      internalID: -6047851846746600391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1147
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00b08df8567b0a80800000000000000
+      internalID: -8499569747149410293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_35
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1132
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e9fa846c5433a0800000000000000
+      internalID: -6686617959840225488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1157
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb1e63a82c1bea0800000000000000
+      internalID: -5858687741350265721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_37
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1146
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f402021a392170800000000000000
+      internalID: 8154112449348694548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1147
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264571a2d79392d0800000000000000
+      internalID: -3273105573260474836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1135
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac6e33d7f03ce9f0800000000000000
+      internalID: -437921222802641759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1171
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e48aa5bd54c85fd0800000000000000
+      internalID: -2352914898542230304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_41
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1147
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e18e359daae030800000000000000
+      internalID: 3524820514881267240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1171
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330e760077b62970800000000000000
+      internalID: 8729866619477427006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1132
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c84c1992a06f2b0800000000000000
+      internalID: -5551238317032043443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_44
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1156
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6e05cf57bc61790800000000000000
+      internalID: -7559631216890026285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_45
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1169
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5eb56036a849f0800000000000000
+      internalID: -483954233146712762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1144
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04910085ad4e3e0800000000000000
+      internalID: -2025253860916248376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_47
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76baff43882272160800000000000000
+      internalID: 7000602114170792807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_48
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1163
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d81b44b8fa38ed0800000000000000
+      internalID: -2412891962652652145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_49
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1154
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af4807ec9c9f5de0800000000000000
+      internalID: -1342181966228205657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_50
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1122
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5852d7b416fb9d0800000000000000
+      internalID: -2756377470077401642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_51
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1161
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32e109e2df5a4510800000000000000
+      internalID: 1534143982530060861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1120
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290b2ca99ee14b8d0800000000000000
+      internalID: -2831604277036535662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_53
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1139
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c7faad258de730800000000000000
+      internalID: 4030023672754847873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1147
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ad92bbc122b500800000000000000
+      internalID: 410427674802888779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_55
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573c7a2e4bf8bd40800000000000000
+      internalID: 5600502449774016351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_56
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1156
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f8fb28cbb53080800000000000000
+      internalID: -9208247394683521927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_57
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ee0906d99049b0800000000000000
+      internalID: -5097905633629379235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_58
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282dcfa058ad54e90800000000000000
+      internalID: -7041982177374055806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_59
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044a3be785684660800000000000000
+      internalID: 7370252424633271309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_60
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29343a95ae26ba2d0800000000000000
+      internalID: -3266408346061421678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_61
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1151
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d8016e69d33cf0800000000000000
+      internalID: -273636084241868422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_62
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1178
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9726cb465f9f041c0800000000000000
+      internalID: -4521339193527606663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_63
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1037
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29bc8c35c85b6670800000000000000
+      internalID: 8533011523131193642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1147
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11ab8521b75102e0800000000000000
+      internalID: -2161349927810391777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_65
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1135
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba482f706beb560800000000000000
+      internalID: 7331497388655553503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1135
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc318f8953cfa40800000000000000
+      internalID: 5403252584051101624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1122
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308687ce54472b00800000000000000
+      internalID: 803686232374018108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_68
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1120
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc686885c07c0d0800000000000000
+      internalID: -3402737419101483154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1119
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fbdd54a24c7fd0800000000000000
+      internalID: -2342924432422735662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1128
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd645e1b5eb45e7e0800000000000000
+      internalID: -1736898631377271076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_71
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1098
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4df0ce3534ec2c20800000000000000
+      internalID: 3183169953981332813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_72
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1108
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434168f0817ce6ad0800000000000000
+      internalID: -2707007419849501644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_73
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1122
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb032d37f8a4d40800000000000000
+      internalID: 5569421616807460628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1098
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399f8f2cd5aaf390800000000000000
+      internalID: -7783726640847152833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_75
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a81cc70618afe0800000000000000
+      internalID: -1177667079812634200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_76
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4858bc137dc45f70800000000000000
+      internalID: 9175184235147319373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee1975b22cd4f50800000000000000
+      internalID: 6867358498218438168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83dd7a9a07057100800000000000000
+      internalID: 104997908436079503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008b36653da5bbb0800000000000000
+      internalID: -4920836572972351478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1108
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293d7f7aae492a850800000000000000
+      internalID: 6386830957126079378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_81
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1120
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636dab1297da841a0800000000000000
+      internalID: -6825014499511445962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_82
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9886b472b15e5a50800000000000000
+      internalID: 6511731938128464027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1108
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c08d17f87ea2e590800000000000000
+      internalID: -7646357382756466487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_84
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1110
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa7627c2f6243e30800000000000000
+      internalID: 4482250353305615092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_85
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d72120b8f38f5f00800000000000000
+      internalID: 1107749137486522327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_86
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1117
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4c5739c6dd6700800000000000000
+      internalID: 535320090432523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_87
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1110
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742caacf29bdc31e0800000000000000
+      internalID: -2216655492222369209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_88
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa14308095eb0970800000000000000
+      internalID: 8722317512122047139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_89
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1108
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d24d03505c2c920800000000000000
+      internalID: 3009184127121632664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904e1ea235290ef0800000000000000
+      internalID: -141541013685649249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_91
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1094
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2907bf7525381d7c0800000000000000
+      internalID: -4048310200342712174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1105
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa5df2796a54a7e0800000000000000
+      internalID: -1755178545820378380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03edc2cf71ad56900800000000000000
+      internalID: 677187115539029552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1096
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a467dee57afff630800000000000000
+      internalID: 3963161581534536872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_95
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e4983c53fa73c0800000000000000
+      internalID: -4360905711743082206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_96
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1096
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd6bc921282d400800000000000000
+      internalID: 347483137711201227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_97
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1098
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f141a8a821e3120800000000000000
+      internalID: 2395372438039043932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_98
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1110
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282fe524572ea3b10800000000000000
+      internalID: 1962129580925842050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_99
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1096
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36bc00830aba910800000000000000
+      internalID: 1849748234357662676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_100
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1084
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7637bdc9d57a570800000000000000
+      internalID: 8477847751826302933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_101
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1098
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649d516b2db8b6be0800000000000000
+      internalID: -1482937915174168250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_102
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1098
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e933278b6fef20800000000000000
+      internalID: 3454097667372213075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_103
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1049
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff06895922abee0800000000000000
+      internalID: -1244644321112555629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_104
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1096
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd6aeecd1978a50800000000000000
+      internalID: 6523342963352198418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_105
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1086
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d17ea9ed24954610800000000000000
+      internalID: 1604851767142412755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_106
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1093
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab250e6ae367076d0800000000000000
+      internalID: -2994763740741610822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_107
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1098
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887c8989be1f0b70800000000000000
+      internalID: 8867339973541263503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_108
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1110
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca385273f6402f60800000000000000
+      internalID: 8007478148874123976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1091
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7fe2066f9d66140800000000000000
+      internalID: 4712693712288675749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_110
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1086
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2694aeb7e6e3097a0800000000000000
+      internalID: -6372524828482975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1074
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14508703ff8c7800800000000000000
+      internalID: 611521923381220380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1035
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fa802af8e82de0800000000000000
+      internalID: -1357579126666759454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1095
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caab1e913b0d72b30800000000000000
+      internalID: 4262605039981410988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_114
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1086
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f7a98c2fbe32810800000000000000
+      internalID: 1739493309075324739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_115
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1086
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ab02a58bbddfb70800000000000000
+      internalID: 8934538820605491849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1098
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba0d518caab9510800000000000000
+      internalID: 1557025872522816493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_117
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1083
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c647e9f221bc73b00800000000000000
+      internalID: 808337937105056876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_118
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1062
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474fe134124a36cc0800000000000000
+      internalID: -3718948404510919564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_119
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1083
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e153ffc88501c50800000000000000
+      internalID: 6633899613717077594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_120
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1086
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b4a8a9efc4d200800000000000000
+      internalID: 204016485602211958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_121
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1093
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4def3b1d02c63660800000000000000
+      internalID: 7365287602158562636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_122
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1062
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acb745565f37c90800000000000000
+      internalID: -7173119965913167224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_123
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1058
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10896c036bff44630800000000000000
+      internalID: 3910531534431885313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_124
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1072
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb274f0a28b4fb70800000000000000
+      internalID: 8931966451766995909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_125
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1071
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495fc52ac471fe00800000000000000
+      internalID: 1076770197484820801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_126
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1086
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c26c03b96972c60800000000000000
+      internalID: 7793363273470323775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_127
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1086
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a850fdf1f17aa0800000000000000
+      internalID: -6164880341932136013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1049
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de952c92fefe1760800000000000000
+      internalID: 7430656753163149017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1086
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb661c264742b9c70800000000000000
+      internalID: 8978810364384863935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_130
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1070
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a0b3087306bbf90800000000000000
+      internalID: -6936845009543296370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1074
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca1ddafbd671eb0800000000000000
+      internalID: -4749206612016518060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1070
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feeda653aa32c110800000000000000
+      internalID: 1279649717334961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_133
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1074
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1314c447981280800000000000000
+      internalID: -9072335127734706812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_134
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1074
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab80b69abacf230800000000000000
+      internalID: 3674000140161039068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_135
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1074
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495804db1eb849ec0800000000000000
+      internalID: -3561067603684194924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_136
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1084
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11842ed594c2ce2e0800000000000000
+      internalID: -2095251033014777839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1074
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5989567c232b5690800000000000000
+      internalID: -7612452071268578979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_138
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1062
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c9a3c7d5f5d0f0800000000000000
+      internalID: -1092697027518021322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_139
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1062
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc50da78e9cd13e0800000000000000
+      internalID: -2081285452445229889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_140
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1074
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705cf8d3f64bfc10800000000000000
+      internalID: 2088340865347768442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_141
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1065
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce802763b06b9a40800000000000000
+      internalID: 5375996903842418370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_142
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1074
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a478ba9bfae7a0800000000000000
+      internalID: -6346984082887106008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_143
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1074
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f6f7da63739ac90800000000000000
+      internalID: -7158129424750121058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_144
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1062
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b44acc9dd298510800000000000000
+      internalID: 1551821960070318906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_145
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1062
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df7e9f3b8c7b160800000000000000
+      internalID: 7041317217734491443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_146
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1055
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a6f4a9f19295a0800000000000000
+      internalID: -6515985209451174261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_147
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1059
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248caad134d77cdc0800000000000000
+      internalID: -3618786048354891710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_148
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1037
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3066d857b8d1c0800000000000000
+      internalID: -4478628237238322367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_149
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1059
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98952dfc57ccc8f90800000000000000
+      internalID: -6949955318569608823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_150
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1062
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581a98d2f5086b30800000000000000
+      internalID: 4280677986389858393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_151
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 739
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69bb7e035b3c0d0800000000000000
+      internalID: -3403677671711074587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_152
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 863
+        width: 66
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac5b944dacff410800000000000000
+      internalID: 1513151012938304055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_153
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1049
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505ac51b7b5de470800000000000000
+      internalID: 8425491062084751444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_154
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1040
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9abe088927e8c470800000000000000
+      internalID: 8415230069304113820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_155
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1044
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3431996b4d7e840800000000000000
+      internalID: 5253401371068285937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_156
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1047
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a200847d60d600800000000000000
+      internalID: 491012706514675797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_157
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1047
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29d66c4299e70a20800000000000000
+      internalID: 3028646088986253612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_158
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1037
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08eec6865dac6db0800000000000000
+      internalID: -4797268915915921397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_159
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1049
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eae456620de6b40800000000000000
+      internalID: 5435510663609757309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_160
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1049
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1074514d8964230800000000000000
+      internalID: 3622750986923606464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_161
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1047
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342971cad05c39b0800000000000000
+      internalID: -5099111777611209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1042
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c0a1775e382f90800000000000000
+      internalID: -6978259077321143988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_163
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1049
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c136efa3a06f1760800000000000000
+      internalID: 7430764166331642306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_164
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1042
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac21a3bc90cf225a0800000000000000
+      internalID: -6547393789248793910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_165
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1049
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171629e0aec92fa0800000000000000
+      internalID: -5824897452525349102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_166
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1040
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26834af103d18a850800000000000000
+      internalID: 6388388163951540322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_167
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1037
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9915dca1b562d7ef0800000000000000
+      internalID: -108888643253481063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_168
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1035
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2bd157f9ab6630800000000000000
+      internalID: 3921414780251483015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_169
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1037
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a464eb70b197d9a00800000000000000
+      internalID: 764900668723840586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_170
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1047
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff68264c3aa12a50800000000000000
+      internalID: 6494659313496780799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_171
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1037
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fedeab5d9f56820800000000000000
+      internalID: 2911007430524399407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_172
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1023
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16504dfc531bdb980800000000000000
+      internalID: -8521460075236948639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_173
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1025
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d04edb93c1cc170800000000000000
+      internalID: 8199960055859383669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_174
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1037
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aff665f84559b9a0800000000000000
+      internalID: -6216844038765084766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_175
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1037
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de33fbc2f453b6f0800000000000000
+      internalID: -670098517767536942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_176
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1032
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cf4b7040a3e4200800000000000000
+      internalID: 166134025242868804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_177
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1030
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488a4ad55e7a4fa0800000000000000
+      internalID: -5815697061595936699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_178
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1023
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26edeef9a8ba3a20800000000000000
+      internalID: 3042947538508178986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_179
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1025
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b4a3143f78a3b0800000000000000
+      internalID: -5501007083188471851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_180
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1023
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469443d976175e0f0800000000000000
+      internalID: -1088339045107087004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_181
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 981
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a355e50eaba448b80800000000000000
+      internalID: -8393501639023110854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1013
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a87bc6d65da5b0800000000000000
+      internalID: -5355528901336981193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_183
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1025
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e95763cc06dccc20800000000000000
+      internalID: 3228190383224084962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_184
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1013
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6362d544ad7fe3330800000000000000
+      internalID: 3692661261312271926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_185
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1001
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa78ffd776ca340800000000000000
+      internalID: 4876386287391059844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_186
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1013
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94649d4342d8e00e0800000000000000
+      internalID: -2301747172894751159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_187
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1011
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ebc2398449a8780800000000000000
+      internalID: -8679962292375470537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_188
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1013
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c69993619659d210800000000000000
+      internalID: 1358211945070171848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_189
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1008
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6815b3727d728b0800000000000000
+      internalID: -5176932683140200800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_190
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1001
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f374781c14835500800000000000000
+      internalID: 383795649460859895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_191
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1004
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3620bb67fc85c5930800000000000000
+      internalID: 4133276206092714595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_192
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 973
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3a7c9b38c18500800000000000000
+      internalID: 396818400539196672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_193
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1001
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62011e61093572570800000000000000
+      internalID: 8441807904853528614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_194
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 998
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66960f2b97a2760800000000000000
+      internalID: 7433887944373003975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_195
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1001
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99f73efa75b9fd0800000000000000
+      internalID: -2334175568913786443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_196
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 964
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8bdc426e529fa0800000000000000
+      internalID: -5795465994183143769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_197
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 974
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de32a2692db714470800000000000000
+      internalID: 8377112926278525933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_198
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 977
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f200a2ee1e04e900800000000000000
+      internalID: 712710166845326064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_199
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 977
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ae8b2c217ee060800000000000000
+      internalID: 6984644506621487403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_200
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 965
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc37d00f6ab6ff10800000000000000
+      internalID: 2303233245364829424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_201
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 964
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965a6e949be68490800000000000000
+      internalID: -7744243485671532912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_202
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 891
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438962e1207aee590800000000000000
+      internalID: -7642987890063534028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_203
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 952
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc26e6a135ecda0800000000000000
+      internalID: -5922705086959399880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_204
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd5dc747fce97a0800000000000000
+      internalID: -6368424723837756255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_205
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 884
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d268c549a2312b60800000000000000
+      internalID: 7719506938891363033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_206
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 770
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304f14ba7bb19f950800000000000000
+      internalID: 6483243614242731011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_207
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 782
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b5ac43a21152eb0800000000000000
+      internalID: -4745367759392973953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_208
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 952
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07604e7b7064c7940800000000000000
+      internalID: 5295184260844750448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_209
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 950
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38a09cf63a51130800000000000000
+      internalID: 3536912782878999467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_210
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 794
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3926a40752ff340800000000000000
+      internalID: 4899676083816928187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_211
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf08ca02922f3050800000000000000
+      internalID: 5782378457208459187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_212
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 920
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab10b483f2030fda0800000000000000
+      internalID: -5913173331371425350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_213
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 916
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052b0c80924b5720800000000000000
+      internalID: 2835933578952123650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_214
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 916
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ddecdaad400d90800000000000000
+      internalID: -7133616413508513210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_215
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 800
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd428cf5fa5ff8150800000000000000
+      internalID: 5877186172316820699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_216
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 909
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597eca64dbc4e030800000000000000
+      internalID: 3523164921695992147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_217
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 940
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9743601b4818b5d60800000000000000
+      internalID: 7880034379920454777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_218
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 831
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad886d81d81cb64d0800000000000000
+      internalID: -3140203503409526566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_219
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 952
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c88df88e0b1eac0800000000000000
+      internalID: -3827583695395976066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_220
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 855
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6b3b8045efd12d0800000000000000
+      internalID: -3306206914543372622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_221
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 819
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a4a8c35b408fd0800000000000000
+      internalID: -2341788983012054837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_222
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 801
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebcc3b94489dbff0800000000000000
+      internalID: -18691403009963034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_223
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 770
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6129cdb3917d50800000000000000
+      internalID: 6733325361228115500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_224
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 746
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aebda847f383280800000000000000
+      internalID: -9063424480304698874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_225
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 758
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0fb0c7851e7f2e0800000000000000
+      internalID: -2091955731735777088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_226
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 950
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259196aa24d39ed10800000000000000
+      internalID: 2155321253209643346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_227
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 755
+        width: 62
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b3a0f0723d9a810800000000000000
+      internalID: 1777183692683885411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_228
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 916
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc3cafa44842910800000000000000
+      internalID: 1811718407679364517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_229
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 770
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159895bb5d64d50a0800000000000000
+      internalID: -6891273971021805231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_230
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 916
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b3fc2f9762f250800000000000000
+      internalID: 5976953588825700832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_231
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 789
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594be0a08083a220800000000000000
+      internalID: 2495979908437330266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_232
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 879
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f0a00263a87ff60800000000000000
+      internalID: 8068069222527930166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_233
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 891
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726b064a41dcf5c0800000000000000
+      internalID: -4180236237173726602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_234
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 794
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc72ca416f9e770800000000000000
+      internalID: 8640707928735076212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_235
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 867
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6ec56bb34242920800000000000000
+      internalID: 2964534293597841073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_236
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 728
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660c81cc0f8df630800000000000000
+      internalID: 3962480532105463397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_237
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 725
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf3b914042e990d0800000000000000
+      internalID: -3415450076777332800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_238
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 731
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a487a01eb20ec45f0800000000000000
+      internalID: -770994957123422134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_239
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 709
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afee3bab5ee60b80800000000000000
+      internalID: -8428787575094841431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_240
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 714
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505f82e11b0dc240800000000000000
+      internalID: 4813515748172320862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_241
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 709
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a860c619b601bbb0800000000000000
+      internalID: -4922145525718816607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_242
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 714
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31091cd7fbae0e50800000000000000
+      internalID: 6777543570277073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_243
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 709
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b586555aa23810800000000000000
+      internalID: 1743643289246348690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_244
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 697
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf1f779610cc050800000000000000
+      internalID: 5822029970778750063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_245
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 697
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f480d829a704c11f0800000000000000
+      internalID: -1072911716032116657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_246
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 702
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfce50a6ddffe3c0800000000000000
+      internalID: -4327961618624360494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_247
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 685
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e6b4d4c2273770800000000000000
+      internalID: 8590373043010201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_248
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 673
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4647a8895acc1270800000000000000
+      internalID: 8222669505565247052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_249
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 661
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3982ff80ee1f1270800000000000000
+      internalID: 8223325394438359355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_250
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 624
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d839664d64ada0800000000000000
+      internalID: -5934498259786999722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_251
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 628
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d8ff1f307810d0800000000000000
+      internalID: -3451885697957834633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_252
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13ed996c62836c0800000000000000
+      internalID: -4163535221077167695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_253
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 648
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ce575e70fa70f0800000000000000
+      internalID: -1118317132025772844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_254
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 624
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a0122e5fdfc64c0800000000000000
+      internalID: -4292777112288294359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_255
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 575
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f3b200ddc1b3f0800000000000000
+      internalID: -886701358333036252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_256
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 600
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a78aa0ca2e38670800000000000000
+      internalID: 8539918546965658119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_257
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e5ef334e9075b0800000000000000
+      internalID: -5372620343780972383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_258
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 519
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08a8d10533bbd60800000000000000
+      internalID: 7906969989965054164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_259
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 490
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e248ea604b323ca0800000000000000
+      internalID: -6038699002492861726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_260
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 465
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b030c3b0dc5ecd00800000000000000
+      internalID: 994834619134128313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_261
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 124
+        width: 235
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226c242bb56b4310800000000000000
+      internalID: 1390316764414108194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_262
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 318
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f3585810d2df20800000000000000
+      internalID: 3446045467871540357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_263
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c43bac6b7f73c40800000000000000
+      internalID: 5492130635058465935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_264
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a4d28100d49d40800000000000000
+      internalID: 5590321742382146399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_265
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 116
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00d19d2b636c84a0800000000000000
+      internalID: -6589782842772697077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_266
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 107
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55645dfb3918b96d0800000000000000
+      internalID: -2982647856624220587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_267
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 92
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3928f21835b69af0800000000000000
+      internalID: -389925065279919814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_DogWalk_Hit_268
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 88
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3904e2d257b4574d0800000000000000
+      internalID: -3137518598752419693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Normal_DogWalk_Hit_0: -3986026641298246214
+      Normal_DogWalk_Hit_1: 2021620285146627905
+      Normal_DogWalk_Hit_10: -3885338514874709385
+      Normal_DogWalk_Hit_100: 8477847751826302933
+      Normal_DogWalk_Hit_101: -1482937915174168250
+      Normal_DogWalk_Hit_102: 3454097667372213075
+      Normal_DogWalk_Hit_103: -1244644321112555629
+      Normal_DogWalk_Hit_104: 6523342963352198418
+      Normal_DogWalk_Hit_105: 1604851767142412755
+      Normal_DogWalk_Hit_106: -2994763740741610822
+      Normal_DogWalk_Hit_107: 8867339973541263503
+      Normal_DogWalk_Hit_108: 8007478148874123976
+      Normal_DogWalk_Hit_109: 4712693712288675749
+      Normal_DogWalk_Hit_11: 1167115266654029462
+      Normal_DogWalk_Hit_110: -6372524828482975390
+      Normal_DogWalk_Hit_111: 611521923381220380
+      Normal_DogWalk_Hit_112: -1357579126666759454
+      Normal_DogWalk_Hit_113: 4262605039981410988
+      Normal_DogWalk_Hit_114: 1739493309075324739
+      Normal_DogWalk_Hit_115: 8934538820605491849
+      Normal_DogWalk_Hit_116: 1557025872522816493
+      Normal_DogWalk_Hit_117: 808337937105056876
+      Normal_DogWalk_Hit_118: -3718948404510919564
+      Normal_DogWalk_Hit_119: 6633899613717077594
+      Normal_DogWalk_Hit_12: -4827755742427271628
+      Normal_DogWalk_Hit_120: 204016485602211958
+      Normal_DogWalk_Hit_121: 7365287602158562636
+      Normal_DogWalk_Hit_122: -7173119965913167224
+      Normal_DogWalk_Hit_123: 3910531534431885313
+      Normal_DogWalk_Hit_124: 8931966451766995909
+      Normal_DogWalk_Hit_125: 1076770197484820801
+      Normal_DogWalk_Hit_126: 7793363273470323775
+      Normal_DogWalk_Hit_127: -6164880341932136013
+      Normal_DogWalk_Hit_128: 7430656753163149017
+      Normal_DogWalk_Hit_129: 8978810364384863935
+      Normal_DogWalk_Hit_13: -4825825236448440123
+      Normal_DogWalk_Hit_130: -6936845009543296370
+      Normal_DogWalk_Hit_131: -4749206612016518060
+      Normal_DogWalk_Hit_132: 1279649717334961907
+      Normal_DogWalk_Hit_133: -9072335127734706812
+      Normal_DogWalk_Hit_134: 3674000140161039068
+      Normal_DogWalk_Hit_135: -3561067603684194924
+      Normal_DogWalk_Hit_136: -2095251033014777839
+      Normal_DogWalk_Hit_137: -7612452071268578979
+      Normal_DogWalk_Hit_138: -1092697027518021322
+      Normal_DogWalk_Hit_139: -2081285452445229889
+      Normal_DogWalk_Hit_14: 7218633106399375164
+      Normal_DogWalk_Hit_140: 2088340865347768442
+      Normal_DogWalk_Hit_141: 5375996903842418370
+      Normal_DogWalk_Hit_142: -6346984082887106008
+      Normal_DogWalk_Hit_143: -7158129424750121058
+      Normal_DogWalk_Hit_144: 1551821960070318906
+      Normal_DogWalk_Hit_145: 7041317217734491443
+      Normal_DogWalk_Hit_146: -6515985209451174261
+      Normal_DogWalk_Hit_147: -3618786048354891710
+      Normal_DogWalk_Hit_148: -4478628237238322367
+      Normal_DogWalk_Hit_149: -6949955318569608823
+      Normal_DogWalk_Hit_15: 4945349787663530250
+      Normal_DogWalk_Hit_150: 4280677986389858393
+      Normal_DogWalk_Hit_151: -3403677671711074587
+      Normal_DogWalk_Hit_152: 1513151012938304055
+      Normal_DogWalk_Hit_153: 8425491062084751444
+      Normal_DogWalk_Hit_154: 8415230069304113820
+      Normal_DogWalk_Hit_155: 5253401371068285937
+      Normal_DogWalk_Hit_156: 491012706514675797
+      Normal_DogWalk_Hit_157: 3028646088986253612
+      Normal_DogWalk_Hit_158: -4797268915915921397
+      Normal_DogWalk_Hit_159: 5435510663609757309
+      Normal_DogWalk_Hit_16: 4140745145434351630
+      Normal_DogWalk_Hit_160: 3622750986923606464
+      Normal_DogWalk_Hit_161: -5099111777611209673
+      Normal_DogWalk_Hit_162: -6978259077321143988
+      Normal_DogWalk_Hit_163: 7430764166331642306
+      Normal_DogWalk_Hit_164: -6547393789248793910
+      Normal_DogWalk_Hit_165: -5824897452525349102
+      Normal_DogWalk_Hit_166: 6388388163951540322
+      Normal_DogWalk_Hit_167: -108888643253481063
+      Normal_DogWalk_Hit_168: 3921414780251483015
+      Normal_DogWalk_Hit_169: 764900668723840586
+      Normal_DogWalk_Hit_17: 7513241956195567
+      Normal_DogWalk_Hit_170: 6494659313496780799
+      Normal_DogWalk_Hit_171: 2911007430524399407
+      Normal_DogWalk_Hit_172: -8521460075236948639
+      Normal_DogWalk_Hit_173: 8199960055859383669
+      Normal_DogWalk_Hit_174: -6216844038765084766
+      Normal_DogWalk_Hit_175: -670098517767536942
+      Normal_DogWalk_Hit_176: 166134025242868804
+      Normal_DogWalk_Hit_177: -5815697061595936699
+      Normal_DogWalk_Hit_178: 3042947538508178986
+      Normal_DogWalk_Hit_179: -5501007083188471851
+      Normal_DogWalk_Hit_18: -2461182420240403263
+      Normal_DogWalk_Hit_180: -1088339045107087004
+      Normal_DogWalk_Hit_181: -8393501639023110854
+      Normal_DogWalk_Hit_182: -5355528901336981193
+      Normal_DogWalk_Hit_183: 3228190383224084962
+      Normal_DogWalk_Hit_184: 3692661261312271926
+      Normal_DogWalk_Hit_185: 4876386287391059844
+      Normal_DogWalk_Hit_186: -2301747172894751159
+      Normal_DogWalk_Hit_187: -8679962292375470537
+      Normal_DogWalk_Hit_188: 1358211945070171848
+      Normal_DogWalk_Hit_189: -5176932683140200800
+      Normal_DogWalk_Hit_19: 2429753643356540391
+      Normal_DogWalk_Hit_190: 383795649460859895
+      Normal_DogWalk_Hit_191: 4133276206092714595
+      Normal_DogWalk_Hit_192: 396818400539196672
+      Normal_DogWalk_Hit_193: 8441807904853528614
+      Normal_DogWalk_Hit_194: 7433887944373003975
+      Normal_DogWalk_Hit_195: -2334175568913786443
+      Normal_DogWalk_Hit_196: -5795465994183143769
+      Normal_DogWalk_Hit_197: 8377112926278525933
+      Normal_DogWalk_Hit_198: 712710166845326064
+      Normal_DogWalk_Hit_199: 6984644506621487403
+      Normal_DogWalk_Hit_2: -1979294420985150530
+      Normal_DogWalk_Hit_20: 3586591731384644603
+      Normal_DogWalk_Hit_200: 2303233245364829424
+      Normal_DogWalk_Hit_201: -7744243485671532912
+      Normal_DogWalk_Hit_202: -7642987890063534028
+      Normal_DogWalk_Hit_203: -5922705086959399880
+      Normal_DogWalk_Hit_204: -6368424723837756255
+      Normal_DogWalk_Hit_205: 7719506938891363033
+      Normal_DogWalk_Hit_206: 6483243614242731011
+      Normal_DogWalk_Hit_207: -4745367759392973953
+      Normal_DogWalk_Hit_208: 5295184260844750448
+      Normal_DogWalk_Hit_209: 3536912782878999467
+      Normal_DogWalk_Hit_21: -3265278152051825942
+      Normal_DogWalk_Hit_210: 4899676083816928187
+      Normal_DogWalk_Hit_211: 5782378457208459187
+      Normal_DogWalk_Hit_212: -5913173331371425350
+      Normal_DogWalk_Hit_213: 2835933578952123650
+      Normal_DogWalk_Hit_214: -7133616413508513210
+      Normal_DogWalk_Hit_215: 5877186172316820699
+      Normal_DogWalk_Hit_216: 3523164921695992147
+      Normal_DogWalk_Hit_217: 7880034379920454777
+      Normal_DogWalk_Hit_218: -3140203503409526566
+      Normal_DogWalk_Hit_219: -3827583695395976066
+      Normal_DogWalk_Hit_22: -8577536325193146661
+      Normal_DogWalk_Hit_220: -3306206914543372622
+      Normal_DogWalk_Hit_221: -2341788983012054837
+      Normal_DogWalk_Hit_222: -18691403009963034
+      Normal_DogWalk_Hit_223: 6733325361228115500
+      Normal_DogWalk_Hit_224: -9063424480304698874
+      Normal_DogWalk_Hit_225: -2091955731735777088
+      Normal_DogWalk_Hit_226: 2155321253209643346
+      Normal_DogWalk_Hit_227: 1777183692683885411
+      Normal_DogWalk_Hit_228: 1811718407679364517
+      Normal_DogWalk_Hit_229: -6891273971021805231
+      Normal_DogWalk_Hit_23: 7376486958857242033
+      Normal_DogWalk_Hit_230: 5976953588825700832
+      Normal_DogWalk_Hit_231: 2495979908437330266
+      Normal_DogWalk_Hit_232: 8068069222527930166
+      Normal_DogWalk_Hit_233: -4180236237173726602
+      Normal_DogWalk_Hit_234: 8640707928735076212
+      Normal_DogWalk_Hit_235: 2964534293597841073
+      Normal_DogWalk_Hit_236: 3962480532105463397
+      Normal_DogWalk_Hit_237: -3415450076777332800
+      Normal_DogWalk_Hit_238: -770994957123422134
+      Normal_DogWalk_Hit_239: -8428787575094841431
+      Normal_DogWalk_Hit_24: 8453259672268550696
+      Normal_DogWalk_Hit_240: 4813515748172320862
+      Normal_DogWalk_Hit_241: -4922145525718816607
+      Normal_DogWalk_Hit_242: 6777543570277073213
+      Normal_DogWalk_Hit_243: 1743643289246348690
+      Normal_DogWalk_Hit_244: 5822029970778750063
+      Normal_DogWalk_Hit_245: -1072911716032116657
+      Normal_DogWalk_Hit_246: -4327961618624360494
+      Normal_DogWalk_Hit_247: 8590373043010201043
+      Normal_DogWalk_Hit_248: 8222669505565247052
+      Normal_DogWalk_Hit_249: 8223325394438359355
+      Normal_DogWalk_Hit_25: -6186234376622848631
+      Normal_DogWalk_Hit_250: -5934498259786999722
+      Normal_DogWalk_Hit_251: -3451885697957834633
+      Normal_DogWalk_Hit_252: -4163535221077167695
+      Normal_DogWalk_Hit_253: -1118317132025772844
+      Normal_DogWalk_Hit_254: -4292777112288294359
+      Normal_DogWalk_Hit_255: -886701358333036252
+      Normal_DogWalk_Hit_256: 8539918546965658119
+      Normal_DogWalk_Hit_257: -5372620343780972383
+      Normal_DogWalk_Hit_258: 7906969989965054164
+      Normal_DogWalk_Hit_259: -6038699002492861726
+      Normal_DogWalk_Hit_26: -3970899691929863627
+      Normal_DogWalk_Hit_260: 994834619134128313
+      Normal_DogWalk_Hit_261: 1390316764414108194
+      Normal_DogWalk_Hit_262: 3446045467871540357
+      Normal_DogWalk_Hit_263: 5492130635058465935
+      Normal_DogWalk_Hit_264: 5590321742382146399
+      Normal_DogWalk_Hit_265: -6589782842772697077
+      Normal_DogWalk_Hit_266: -2982647856624220587
+      Normal_DogWalk_Hit_267: -389925065279919814
+      Normal_DogWalk_Hit_268: -3137518598752419693
+      Normal_DogWalk_Hit_27: 8218679763153363102
+      Normal_DogWalk_Hit_28: 7629451211566431495
+      Normal_DogWalk_Hit_29: -3787548149320301305
+      Normal_DogWalk_Hit_3: -5032237988899558204
+      Normal_DogWalk_Hit_30: 872862898467110098
+      Normal_DogWalk_Hit_31: 1602674469855882055
+      Normal_DogWalk_Hit_32: 8154369448741833765
+      Normal_DogWalk_Hit_33: -6047851846746600391
+      Normal_DogWalk_Hit_34: -8499569747149410293
+      Normal_DogWalk_Hit_35: -6686617959840225488
+      Normal_DogWalk_Hit_36: -5858687741350265721
+      Normal_DogWalk_Hit_37: 8154112449348694548
+      Normal_DogWalk_Hit_38: -3273105573260474836
+      Normal_DogWalk_Hit_39: -437921222802641759
+      Normal_DogWalk_Hit_4: 431393129511555166
+      Normal_DogWalk_Hit_40: -2352914898542230304
+      Normal_DogWalk_Hit_41: 3524820514881267240
+      Normal_DogWalk_Hit_42: 8729866619477427006
+      Normal_DogWalk_Hit_43: -5551238317032043443
+      Normal_DogWalk_Hit_44: -7559631216890026285
+      Normal_DogWalk_Hit_45: -483954233146712762
+      Normal_DogWalk_Hit_46: -2025253860916248376
+      Normal_DogWalk_Hit_47: 7000602114170792807
+      Normal_DogWalk_Hit_48: -2412891962652652145
+      Normal_DogWalk_Hit_49: -1342181966228205657
+      Normal_DogWalk_Hit_5: -2948149084552967958
+      Normal_DogWalk_Hit_50: -2756377470077401642
+      Normal_DogWalk_Hit_51: 1534143982530060861
+      Normal_DogWalk_Hit_52: -2831604277036535662
+      Normal_DogWalk_Hit_53: 4030023672754847873
+      Normal_DogWalk_Hit_54: 410427674802888779
+      Normal_DogWalk_Hit_55: 5600502449774016351
+      Normal_DogWalk_Hit_56: -9208247394683521927
+      Normal_DogWalk_Hit_57: -5097905633629379235
+      Normal_DogWalk_Hit_58: -7041982177374055806
+      Normal_DogWalk_Hit_59: 7370252424633271309
+      Normal_DogWalk_Hit_6: 2657357108409387834
+      Normal_DogWalk_Hit_60: -3266408346061421678
+      Normal_DogWalk_Hit_61: -273636084241868422
+      Normal_DogWalk_Hit_62: -4521339193527606663
+      Normal_DogWalk_Hit_63: 8533011523131193642
+      Normal_DogWalk_Hit_64: -2161349927810391777
+      Normal_DogWalk_Hit_65: 7331497388655553503
+      Normal_DogWalk_Hit_66: 5403252584051101624
+      Normal_DogWalk_Hit_67: 803686232374018108
+      Normal_DogWalk_Hit_68: -3402737419101483154
+      Normal_DogWalk_Hit_69: -2342924432422735662
+      Normal_DogWalk_Hit_7: -3102598648080162455
+      Normal_DogWalk_Hit_70: -1736898631377271076
+      Normal_DogWalk_Hit_71: 3183169953981332813
+      Normal_DogWalk_Hit_72: -2707007419849501644
+      Normal_DogWalk_Hit_73: 5569421616807460628
+      Normal_DogWalk_Hit_74: -7783726640847152833
+      Normal_DogWalk_Hit_75: -1177667079812634200
+      Normal_DogWalk_Hit_76: 9175184235147319373
+      Normal_DogWalk_Hit_77: 6867358498218438168
+      Normal_DogWalk_Hit_78: 104997908436079503
+      Normal_DogWalk_Hit_79: -4920836572972351478
+      Normal_DogWalk_Hit_8: -8792247265356590785
+      Normal_DogWalk_Hit_80: 6386830957126079378
+      Normal_DogWalk_Hit_81: -6825014499511445962
+      Normal_DogWalk_Hit_82: 6511731938128464027
+      Normal_DogWalk_Hit_83: -7646357382756466487
+      Normal_DogWalk_Hit_84: 4482250353305615092
+      Normal_DogWalk_Hit_85: 1107749137486522327
+      Normal_DogWalk_Hit_86: 535320090432523321
+      Normal_DogWalk_Hit_87: -2216655492222369209
+      Normal_DogWalk_Hit_88: 8722317512122047139
+      Normal_DogWalk_Hit_89: 3009184127121632664
+      Normal_DogWalk_Hit_9: 3442406345217048269
+      Normal_DogWalk_Hit_90: -141541013685649249
+      Normal_DogWalk_Hit_91: -4048310200342712174
+      Normal_DogWalk_Hit_92: -1755178545820378380
+      Normal_DogWalk_Hit_93: 677187115539029552
+      Normal_DogWalk_Hit_94: 3963161581534536872
+      Normal_DogWalk_Hit_95: -4360905711743082206
+      Normal_DogWalk_Hit_96: 347483137711201227
+      Normal_DogWalk_Hit_97: 2395372438039043932
+      Normal_DogWalk_Hit_98: 1962129580925842050
+      Normal_DogWalk_Hit_99: 1849748234357662676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

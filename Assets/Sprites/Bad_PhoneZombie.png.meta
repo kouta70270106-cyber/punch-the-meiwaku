@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: b3f5b055f4f37bb46863ae202799ee0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -646679372601236823
+    second: Bad_PhoneZombie_0
+  - first:
+      213: -5173246225207443815
+    second: Bad_PhoneZombie_1
+  - first:
+      213: -6811658000408697952
+    second: Bad_PhoneZombie_2
+  - first:
+      213: -4338293099848828463
+    second: Bad_PhoneZombie_3
+  - first:
+      213: -7472417345194675776
+    second: Bad_PhoneZombie_4
+  - first:
+      213: 4663208372044234710
+    second: Bad_PhoneZombie_5
+  - first:
+      213: 2157118025457885996
+    second: Bad_PhoneZombie_6
+  - first:
+      213: 5199551456111142346
+    second: Bad_PhoneZombie_7
+  - first:
+      213: -759157392465995326
+    second: Bad_PhoneZombie_8
+  - first:
+      213: -1318851762295563009
+    second: Bad_PhoneZombie_9
+  - first:
+      213: 5576585293736319196
+    second: Bad_PhoneZombie_10
+  - first:
+      213: -4122607462783900747
+    second: Bad_PhoneZombie_11
+  - first:
+      213: -7908964457236704963
+    second: Bad_PhoneZombie_12
+  - first:
+      213: 5953821154131475970
+    second: Bad_PhoneZombie_13
+  - first:
+      213: -7058753673661615914
+    second: Bad_PhoneZombie_14
+  - first:
+      213: -6385713809571396275
+    second: Bad_PhoneZombie_15
+  - first:
+      213: -2561580184956114840
+    second: Bad_PhoneZombie_16
+  - first:
+      213: 528996059254037541
+    second: Bad_PhoneZombie_17
+  - first:
+      213: -2526207909955947583
+    second: Bad_PhoneZombie_18
+  - first:
+      213: 4569714406267673756
+    second: Bad_PhoneZombie_19
+  - first:
+      213: 792312655354764673
+    second: Bad_PhoneZombie_20
+  - first:
+      213: -8007166722359677922
+    second: Bad_PhoneZombie_21
+  - first:
+      213: 5952815016218409850
+    second: Bad_PhoneZombie_22
+  - first:
+      213: 3292863850938283433
+    second: Bad_PhoneZombie_23
+  - first:
+      213: 785117024889362320
+    second: Bad_PhoneZombie_24
+  - first:
+      213: -1022566451721832672
+    second: Bad_PhoneZombie_25
+  - first:
+      213: -3921412164268032779
+    second: Bad_PhoneZombie_26
+  - first:
+      213: -6365192493595647208
+    second: Bad_PhoneZombie_27
+  - first:
+      213: 7165406867181293156
+    second: Bad_PhoneZombie_28
+  - first:
+      213: -4057469723701849884
+    second: Bad_PhoneZombie_29
+  - first:
+      213: 2105927927148887766
+    second: Bad_PhoneZombie_30
+  - first:
+      213: 3554674652969452096
+    second: Bad_PhoneZombie_31
+  - first:
+      213: -7818530813220830658
+    second: Bad_PhoneZombie_32
+  - first:
+      213: -7596915250698595532
+    second: Bad_PhoneZombie_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 603.63635
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 604
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2e78079888607f0800000000000000
+      internalID: -646679372601236823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 878
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e31ea97ffe438b0800000000000000
+      internalID: -5173246225207443815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 883
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3213a63212871a0800000000000000
+      internalID: -6811658000408697952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 863
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97bf339694bc3c0800000000000000
+      internalID: -4338293099848828463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 515
+        width: 90
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1343ed304ac4890800000000000000
+      internalID: -7472417345194675776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 836
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff251ce4b07b040800000000000000
+      internalID: 4663208372044234710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 112
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23620e4a6f9fed10800000000000000
+      internalID: 2157118025457885996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 803
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5aedc3084882840800000000000000
+      internalID: 5199551456111142346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 798
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d37daf5ee675f0800000000000000
+      internalID: -759157392465995326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 810
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc99fc4f4f72bde0800000000000000
+      internalID: -1318851762295563009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 810
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd812d457c2046d40800000000000000
+      internalID: 5576585293736319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32468ea5e89c6c0800000000000000
+      internalID: -4122607462783900747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 715
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315739cab6bd3290800000000000000
+      internalID: -7908964457236704963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 710
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e76348bc830a250800000000000000
+      internalID: 5953821154131475970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 137
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d07a64cee44a0e90800000000000000
+      internalID: -7058753673661615914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 756
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c0378f136167a0800000000000000
+      internalID: -6385713809571396275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_16
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 742
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e204c460737cd0800000000000000
+      internalID: -2561580184956114840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 597
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c1b67fc1f575700800000000000000
+      internalID: 528996059254037541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 596
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33b425a4b11fcd0800000000000000
+      internalID: -2526207909955947583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 522
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cd1968a03ea6f30800000000000000
+      internalID: 4569714406267673756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 522
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9775892cdefa00800000000000000
+      internalID: 792312655354764673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 518
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2c603a44d0e090800000000000000
+      internalID: -8007166722359677922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_22
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b3f47c7b5ac9250800000000000000
+      internalID: 5952815016218409850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 341
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b6e0e93a92bd20800000000000000
+      internalID: 3292863850938283433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 348
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09754af36cb45ea00800000000000000
+      internalID: 785117024889362320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 309
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02773edda3d1fc1f0800000000000000
+      internalID: -1022566451721832672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 304
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc78e2c9685499c0800000000000000
+      internalID: -3921412164268032779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_27
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 291
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813af3cb62b4aa7a0800000000000000
+      internalID: -6365192493595647208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 287
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4c7de493a07360800000000000000
+      internalID: 7165406867181293156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 262
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e059df98c8f0b7c0800000000000000
+      internalID: -4057469723701849884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb844ca42c93d10800000000000000
+      internalID: 2105927927148887766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 263
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042445e63cdb45130800000000000000
+      internalID: 3554674652969452096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_32
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 192
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c68456affe7390800000000000000
+      internalID: -7818530813220830658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bad_PhoneZombie_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433dc5564d5529690800000000000000
+      internalID: -7596915250698595532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bad_PhoneZombie_0: -646679372601236823
+      Bad_PhoneZombie_1: -5173246225207443815
+      Bad_PhoneZombie_10: 5576585293736319196
+      Bad_PhoneZombie_11: -4122607462783900747
+      Bad_PhoneZombie_12: -7908964457236704963
+      Bad_PhoneZombie_13: 5953821154131475970
+      Bad_PhoneZombie_14: -7058753673661615914
+      Bad_PhoneZombie_15: -6385713809571396275
+      Bad_PhoneZombie_16: -2561580184956114840
+      Bad_PhoneZombie_17: 528996059254037541
+      Bad_PhoneZombie_18: -2526207909955947583
+      Bad_PhoneZombie_19: 4569714406267673756
+      Bad_PhoneZombie_2: -6811658000408697952
+      Bad_PhoneZombie_20: 792312655354764673
+      Bad_PhoneZombie_21: -8007166722359677922
+      Bad_PhoneZombie_22: 5952815016218409850
+      Bad_PhoneZombie_23: 3292863850938283433
+      Bad_PhoneZombie_24: 785117024889362320
+      Bad_PhoneZombie_25: -1022566451721832672
+      Bad_PhoneZombie_26: -3921412164268032779
+      Bad_PhoneZombie_27: -6365192493595647208
+      Bad_PhoneZombie_28: 7165406867181293156
+      Bad_PhoneZombie_29: -4057469723701849884
+      Bad_PhoneZombie_3: -4338293099848828463
+      Bad_PhoneZombie_30: 2105927927148887766
+      Bad_PhoneZombie_31: 3554674652969452096
+      Bad_PhoneZombie_32: -7818530813220830658
+      Bad_PhoneZombie_33: -7596915250698595532
+      Bad_PhoneZombie_4: -7472417345194675776
+      Bad_PhoneZombie_5: 4663208372044234710
+      Bad_PhoneZombie_6: 2157118025457885996
+      Bad_PhoneZombie_7: 5199551456111142346
+      Bad_PhoneZombie_8: -759157392465995326
+      Bad_PhoneZombie_9: -1318851762295563009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

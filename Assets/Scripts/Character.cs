@@ -15,6 +15,15 @@ public class Character : MonoBehaviour
     [SerializeField] private float startScale = 0.45f; // 遠くにいる時の縮小率
     [SerializeField] private float endScale = 1.4f;    // 手前まで来た時の拡大率
 
+    [Header("殴られた時の演出")]
+    [SerializeField] private Sprite hitSprite;         // 殴られた瞬間に差し替える立ち絵(未設定なら差し替えない)
+    [SerializeField] private GameObject hitEffectPrefab; // パンチが当たった位置に出す衝撃エフェクト
+
+    [Header("殴られた時の音")]
+    [SerializeField] private AudioClip punchSfx;       // 打撃音(全キャラ共通)
+    [SerializeField] private AudioClip voiceSfx;       // 悲鳴・うめき声(キャラごとに声質を変える)
+    [SerializeField, Range(0f, 1f)] private float voiceVolume = 0.85f;
+
     public PersonType Type { get; private set; }
     public bool IsResolved { get; private set; }
     public float PeakTime { get; private set; }
@@ -88,6 +97,23 @@ public class Character : MonoBehaviour
         JudgeResult result = JudgeSystem.Instance.JudgePunch(this);
         GameManager.Instance.RegisterJudge(result);
 
+        if (hitEffectPrefab != null)
+        {
+            Instantiate(hitEffectPrefab, transform.position, Quaternion.identity);
+        }
+        if (punchSfx != null)
+        {
+            AudioSource.PlayClipAtPoint(punchSfx, transform.position);
+        }
+        if (voiceSfx != null)
+        {
+            AudioSource.PlayClipAtPoint(voiceSfx, transform.position, voiceVolume);
+        }
+        if (PlayerHandsController.Instance != null)
+        {
+            PlayerHandsController.Instance.Punch(transform.position.x);
+        }
+
         PlayHitReaction();
     }
 
@@ -105,6 +131,10 @@ public class Character : MonoBehaviour
         Vector3 end = start + new Vector3(1.5f, 2.0f, 0f);
 
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
+        if (sr != null && hitSprite != null)
+        {
+            sr.sprite = hitSprite;
+        }
         Color startColor = sr != null ? sr.color : Color.white;
 
         while (elapsed < duration)
