@@ -78,8 +78,6 @@ public class GameManager : MonoBehaviour
 
         Score += gained;
         OnScoreChanged?.Invoke(Score, Combo);
-
-        Debug.Log($"[判定] {result} → 獲得{gained:+0;-0}点 / 合計{Score}点 / コンボ{Combo}");
     }
 
     public void EndGame()
