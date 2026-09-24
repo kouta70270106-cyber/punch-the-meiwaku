@@ -712,6 +712,10 @@ public static class ProjectSetup
 
         EditorUserBuildSettings.SwitchActiveBuildTarget(BuildTargetGroup.WebGL, BuildTarget.WebGL);
 
+        // GitHub Pagesは.br/.gzに正しいContent-Encodingヘッダーを付けてくれないため、
+        // 圧縮ファイルのままでもブラウザ側で解凍できるフォールバックを有効にしておく。
+        PlayerSettings.WebGL.decompressionFallback = true;
+
         BuildPlayerOptions options = new BuildPlayerOptions
         {
             scenes = new[] { "Assets/Scenes/Game.unity" },

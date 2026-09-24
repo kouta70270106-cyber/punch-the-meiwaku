@@ -3,6 +3,7 @@ Temp/
 Obj/
 Build/
 Builds/
+!docs/Build/
 Logs/
 UserSettings/
 *.csproj
