@@ -705,6 +705,29 @@ public static class ProjectSetup
     }
 
     // GitHub Pagesで公開する想定で、プロジェクト直下の docs フォルダにWebGLビルドを出力する。
+    // 昔_unity_tmpから流用したProjectSettingsのせいで製品名が残ったままだったのを直す。
+    // あわせて検証用に手動で作った「Text (Legacy)」の消し忘れも削除する。
+    [MenuItem("Tools/パンチ・ザ・迷惑/仕上げ: 製品名とデバッグ残骸を整理")]
+    public static void CleanupForRelease()
+    {
+        PlayerSettings.productName = "パンチ・ザ・迷惑";
+
+        GameObject stray = GameObject.Find("Text (Legacy)");
+        if (stray != null)
+        {
+            Object.DestroyImmediate(stray);
+            Debug.Log("[ProjectSetup] デバッグ用の「Text (Legacy)」を削除しました。");
+        }
+        else
+        {
+            Debug.Log("[ProjectSetup] 「Text (Legacy)」は見つかりませんでした(既に削除済み)。");
+        }
+
+        EditorSceneManager.MarkSceneDirty(EditorSceneManager.GetActiveScene());
+        AssetDatabase.SaveAssets();
+        Debug.Log("[ProjectSetup] 製品名を「パンチ・ザ・迷惑」に設定しました。");
+    }
+
     [MenuItem("Tools/パンチ・ザ・迷惑/WebGLビルドを作成")]
     public static void BuildWebGL()
     {
@@ -943,6 +966,14 @@ public static class ProjectSetup
         EditorSceneManager.MarkSceneDirty(EditorSceneManager.GetActiveScene());
         AssetDatabase.SaveAssets();
         Debug.Log("[ProjectSetup] プレイヤーの拳を追加しました。");
+    }
+
+    // バッチモード用: Game.unityを開いてからCleanupForReleaseを実行する。
+    public static void BatchCleanupInGameScene()
+    {
+        EditorSceneManager.OpenScene("Assets/Scenes/Game.unity");
+        CleanupForRelease();
+        EditorSceneManager.SaveOpenScenes();
     }
 
     // Assets/Sprites/CharacterRaw/fist_right.jpg のイラストを取り込んで、
