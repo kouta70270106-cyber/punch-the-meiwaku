@@ -704,6 +704,27 @@ public static class ProjectSetup
         Debug.Log($"[ProjectSetup] プレビュー画像を{count}枚、{outDir} に書き出しました。");
     }
 
+    // GitHub Pagesで公開する想定で、プロジェクト直下の docs フォルダにWebGLビルドを出力する。
+    [MenuItem("Tools/パンチ・ザ・迷惑/WebGLビルドを作成")]
+    public static void BuildWebGL()
+    {
+        string buildPath = Path.Combine(Directory.GetCurrentDirectory(), "docs");
+
+        EditorUserBuildSettings.SwitchActiveBuildTarget(BuildTargetGroup.WebGL, BuildTarget.WebGL);
+
+        BuildPlayerOptions options = new BuildPlayerOptions
+        {
+            scenes = new[] { "Assets/Scenes/Game.unity" },
+            locationPathName = buildPath,
+            target = BuildTarget.WebGL,
+            options = BuildOptions.None,
+        };
+
+        UnityEditor.Build.Reporting.BuildReport report = BuildPipeline.BuildPlayer(options);
+        Debug.Log($"[ProjectSetup] WebGLビルド結果: {report.summary.result} " +
+            $"(サイズ={report.summary.totalSize}バイト, 所要時間={report.summary.totalTime}) 出力先={buildPath}");
+    }
+
     private static void SetupCharacterPool(SerializedObject so, string propertyName, Character[] characters)
     {
         SerializedProperty prop = so.FindProperty(propertyName);
